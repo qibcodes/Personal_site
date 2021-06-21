@@ -1,0 +1,217 @@
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+}
+
+h2 {
+color: #687980;}
+
+h3 {
+  color: #687980;
+}
+
+.divcloud1 {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+  padding-bottom: 30px;
+}
+
+.divcloud2 {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.background {
+  background-color: grey;
+  padding-top: 60px;
+  position: relative;
+}
+
+.aqibpic {
+  padding-top: 60px;
+  border-radius: 50px;
+  width: 150px;
+  height: 150px;
+}
+
+.title {
+  color: black;
+  font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif;
+}
+
+.title2 {
+  color: silver;
+  font-weight: normal;
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.design {
+  margin: 100px auto 200px auto;
+  width: 50%;
+  line-height: 1.5;
+  text-align: left;
+
+}
+
+.swimming {
+  text-align: left;
+  padding: 0 10 0 10;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  width: 50%;
+}
+
+.swimming_pic {
+  width: 190px;
+  height: 150px;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50px;
+}
+
+.leadership_skill {
+  text-align: left;
+  padding: 0 10 0 10;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  width: 50%;
+}
+
+
+.leadership_pic {
+  width: 190px;
+  height: 150px;
+  float: right;
+  margin-right: 30px;
+  border-radius: 50px;
+}
+
+
+.motivation_pic {
+  width: 190px;
+  height: 140px;
+  float: left;
+  margin-right: 10px;
+  border-radius: 20px;
+}
+
+.motivation_skill {
+  text-align: left;
+  padding: 0 10 0 10;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+  width: 50%;
+}
+
+
+.design_pic {
+  width: 170px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+  padding-bottom: 30px;
+}
+
+.divtitle {
+  padding-top: 50px;
+}
+
+.h2 {
+  font-family: 'Fjalla One', sans-serif;
+  color: #F2EDD7;
+}
+
+.h3 {
+  font-family: arial;
+  font-color: pink;
+}
+
+
+.p1 {
+  width: 25%;
+  display: inline-block;
+}
+
+.first-line {
+  border-style: dotted;
+  width: 5%;
+  border-width: 8px 0 0 0;
+  color: grey;
+}
+
+
+
+.second-line {
+  border-style: dotted;
+  width: 5%;
+  border-width: 8px 0 0 0;
+  color: grey;
+}
+
+.bottom-container {
+  background-color: grey;
+  padding: 50px 0 20px;
+}
+
+.middle-div {
+  background-color: #F9F9F9;
+}
+
+.profile-div {
+  padding-bottom: 30px;
+
+}
+
+.myskillsheading {
+  padding-top: 30px;
+}
+
+.footer-link {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 17px;
+  font-family: 'Do Hyeon', sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: black;
+}
+
+.btn {
+  background: #e0e0e0;
+  background-image: -webkit-linear-gradient(top, #e0e0e0, #5c595c);
+  background-image: -moz-linear-gradient(top, #e0e0e0, #5c595c);
+  background-image: -ms-linear-gradient(top, #e0e0e0, #5c595c);
+  background-image: -o-linear-gradient(top, #e0e0e0, #5c595c);
+  background-image: linear-gradient(to bottom, #e0e0e0, #5c595c);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #fffcff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0f0f0f;
+  background-image: -webkit-linear-gradient(top, #0f0f0f, #020303);
+  background-image: -moz-linear-gradient(top, #0f0f0f, #020303);
+  background-image: -ms-linear-gradient(top, #0f0f0f, #020303);
+  background-image: -o-linear-gradient(top, #0f0f0f, #020303);
+  background-image: linear-gradient(to bottom, #0f0f0f, #020303);
+  text-decoration: none;
+}
+
+.copyright {
+  color: black;
+  padding: 10px 0;
+}
